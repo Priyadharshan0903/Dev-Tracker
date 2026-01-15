@@ -71,3 +71,11 @@ export default defineConfig([
   },
 ])
 ```
+
+<img width="439" height="614" alt="Screenshot 2026-01-15 at 10 21 08 PM" src="https://github.com/user-attachments/assets/9b07ef16-76ea-49b8-8bd4-393b8cc63d07" />
+
+<img width="439" height="614" alt="Screenshot 2026-01-15 at 10 21 08 PM" src="https://github.com/user-attachments/assets/8c79e0ce-c219-4ff3-a93d-50ddf14a0df2" />
+
+<img width="439" height="614" alt="Screenshot 2026-01-15 at 10 21 08 PM" src="https://github.com/user-attachments/assets/190ef649-0f24-4cfd-8613-463dad2b3db5" />
+
+
